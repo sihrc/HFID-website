@@ -39,8 +39,8 @@ body {
 }
 
 .header_title {
-	float:right;
-	margin-right: 75px;
+	position:absolute;
+	top: 0px;
 	width: auto;
-
+	z-index: 2;
 }
