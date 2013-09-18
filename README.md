@@ -30,16 +30,16 @@ We are currently proposing the following features:
 ## Website Development
 
 Currently, we are working on:
-# Adding the home page:
+### Adding the home page:
 * Information about the team
 * Information about the project
 * Information about the course
 
-# Adding the Contact Us page:
+### Adding the Contact Us page:
 * Contact the team
 * Contact the instructors 
 
-# Adding the Project page:
+### Adding the Project page:
 * Current progress on the Project
 * Upcoming User Visits updates
 
