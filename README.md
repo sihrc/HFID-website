@@ -42,5 +42,5 @@ Currently, we are working on:
 ### Adding the Project page:
 * Current progress on the Project
 * Upcoming User Visits updates
-
+* Inspritational Designs
 
