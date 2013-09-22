@@ -31,16 +31,18 @@ We are currently proposing the following features:
 
 Currently, we are working on:
 ### Adding the home page:
-* Information about the team
-* Information about the project
-* Information about the course
+* What should go on the home page?
+
 
 ### Adding the Contact Us page:
 * Contact the team
 * Contact the instructors 
 
 ### Adding the Project page:
-* Current progress on the Project
-* Upcoming User Visits updates
+* User Visits updates
 * Inspritational Designs
 
+### Updates
+* Navigation Bar - added projects dropdown
+* Completed projectbrief.html
+* Added Jumbotron to each project subpage
