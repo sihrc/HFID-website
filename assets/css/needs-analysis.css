@@ -23,6 +23,26 @@
 	float: left;
 	width: 65%
 }
+
+.persona-des{
+	padding:0;
+	text-align:justify;
+}
+
+hr {
+	width:90%;
+	padding:0px;
+	line-height: 0px;
+}
+
+h5 {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12pt;
+	color: black;
+	margin-left: 40px;
+	line-height: 80%;
+	padding:0px;
+}
 .personas {
 	margin: 20px 5%;
 	width: 90%;
