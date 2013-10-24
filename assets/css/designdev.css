@@ -4,7 +4,7 @@
 }
 .app-screens img {
 	height: auto;
-	width: 40%;
+	width: 225px;
 }
 .design-idea {
 	margin: 20px 0;
@@ -12,7 +12,7 @@
 }
 .design-idea img {
 	height: auto;
-	width: 90%;
+	width: 600px;
 }
 .design-idea-ari {
 	margin: 20px 0;
@@ -20,7 +20,7 @@
 }
 .design-idea-ari img {
 	height: auto;
-	width: 65%;
+	width: 400px;
 }
 .design-idea-lisa {
 	margin: 20px 0;
@@ -28,7 +28,7 @@
 }
 .design-idea-lisa img {
 	height: auto;
-	width: 45%;
+	width: 275px;
 }
 .facebook-share {
 	margin: 20px 0;
@@ -58,7 +58,7 @@
 }
 .ideation-poster img {
 	height: auto;
-	width: 85%;
+	width: 500px;
 }
 .task {
 	margin: 20px 0;
@@ -66,7 +66,7 @@
 }
 .task img {
 	height: auto;
-	width: 95%;
+	width: 650px;
 }
 .task-chris {
 	margin: 20px 0;
@@ -74,7 +74,7 @@
 }
 .task-chris img {
 	height: auto;
-	width: 33%;
+	width: 225px;
 }
 .text-section {
 	margin: 40px 0;
