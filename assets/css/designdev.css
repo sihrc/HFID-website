@@ -1,0 +1,19 @@
+.app-screens {
+	margin: 20px 0;
+	text-align: center;
+}
+.app-screens img {
+	height: auto;
+	width: 40%;
+}
+.ideation-poster {
+	margin: 20px 0;
+	text-align: center;
+}
+.ideation-poster img {
+	height: auto;
+	width: 85%;
+}
+.text-section {
+	margin: 40px 0;
+}
