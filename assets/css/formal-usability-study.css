@@ -1,0 +1,15 @@
+.single-option{
+  float: left;
+  width: 33%;
+}
+.single-option img {
+  height: auto;
+  max-width: 250px;
+  width: 100%;
+}
+.three-options{
+  height: 550px;
+  margin: 10px 0;
+  position: relative;
+  width: 100%;
+}
